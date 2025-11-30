@@ -1,11 +1,13 @@
 # RESTAURANTBLOG
-### FULL STACK APPLICATION USING NODE JS AND MONGO DB SETUP
+
+**FULL STACK APPLICATION USING NODE JS AND MONGO DB SETUP**
+   --
 
 Project details
 Node.js and Express.js are distinct components within the JavaScript ecosystem for server-side development, serving different purposes but often used together.
 •	Node.js is a runtime environment that allows JavaScript code to be executed outside of a web browser, typically on a server.
-•	Node.js is a runtime environment that allows JavaScript code to be executed outside of a web browser, typically on a server.
-<img width="468" height="123" alt="image" src="https://github.com/user-attachments/assets/d31521b8-18b6-4f0d-9a6e-18fe4beebcbd" />
+
+
 
 why we use mongo db?
 MongoDB is a popular choice for many modern applications due to its flexibility, scalability, and high performance. It's a NoSQL database, offering a schema-less document model that allows for easier handling of diverse and evolving data structures. MongoDB's horizontal scalability and robust indexing also make it suitable for applications with high traffic and complex data
@@ -57,9 +59,15 @@ MongoDB is a popular choice for many modern applications due to its flexibility,
 15.  creating a new model for the backend
     ![16  creating new models for the backend](https://github.com/user-attachments/assets/db4536ad-7d22-4bae-9a11-b35e0bda6532)
 
-16. succed in creating a model for the backend
+16. succeeded in creating a model for the backend
     ![17  have successfully loaded first dataset to mongodb](https://github.com/user-attachments/assets/e4de235c-6586-4771-a283-4aa1b5d4f456)
 
-17.
+KEY TAKEAWAYS FROM THE PROJECT
+1. Installation of project depenedencies using npm
+2. Installation of router for connection
+3. Creating models for backend development
+4. Setting up of a database connection for mongodb
+5. 
+
 
 
